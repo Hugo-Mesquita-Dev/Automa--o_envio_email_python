@@ -3,8 +3,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 def enviar_email(assunto, corpo, destinatario):
-    remetente = "hugomesquitadev@gmail.com"
-    senha = "tctl zeds weyd emuz"
+    remetente = "seuEmail@email.com"
+    senha = "suaSenhaAppEmail"
     
     # Configuração da mensagem
     mensagem = MIMEMultipart()
@@ -30,6 +30,6 @@ def enviar_email(assunto, corpo, destinatario):
 # Exemplo de uso
 assunto = "Teste de e-mail com Python"
 corpo = "Olá! Este é um e-mail de teste enviado via Python."
-destinatario = "hugogta99@gmail.com"
+destinatario = "Destinatario@email.com"
 
 enviar_email(assunto, corpo, destinatario)

@@ -1,0 +1,16 @@
+2024-02-10 10:11:11,343 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-10 10:11:11,372 - INFO - Added job "job" to job store "default"
+2024-02-10 10:11:11,372 - INFO - Scheduler started
+2024-02-10 10:24:50,541 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-10 10:24:50,541 - INFO - Added job "job" to job store "default"
+2024-02-10 10:24:50,541 - INFO - Scheduler started
+2024-02-10 10:41:46,326 - INFO - Scheduler has been shut down
+2024-02-10 10:46:08,003 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-10 10:46:08,027 - INFO - Added job "job" to job store "default"
+2024-02-10 10:46:08,027 - INFO - Scheduler started
+2024-02-10 10:47:12,660 - INFO - Scheduler has been shut down
+2024-02-10 11:00:51,518 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-10 11:00:51,518 - INFO - Added job "job" to job store "default"
+2024-02-10 11:00:51,518 - INFO - Scheduler started
+2024-02-10 12:00:51,618 - INFO - Running job "job (trigger: interval[1:00:00], next run at: 2024-02-10 12:00:51 -03)" (scheduled at 2024-02-10 12:00:51.518223-03:00)
+2024-02-10 12:00:51,618 - INFO - Job "job (trigger: interval[1:00:00], next run at: 2024-02-10 13:00:51 -03)" executed successfully
