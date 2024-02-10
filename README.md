@@ -43,3 +43,28 @@ Contribuições são bem-vindas! Abra uma issue ou envie um pull request com mel
 Este projeto está licenciado sob a Licença MIT.
 
 Este README.md fornece instruções sobre como usar o script, configuração necessária e notas importantes. Certifique-se de incluir um arquivo LICENSE no seu repositório se desejar atribuir uma licença específica ao seu código.
+
+
+
+# Automação de Envio de Email Agendado
+
+Este projeto consiste em um script Python para automatizar o envio de emails agendados a cada duas semanas.
+
+## Descrição
+
+O script utiliza a biblioteca `smtplib` para enviar emails através de um servidor SMTP. Ele também faz uso da biblioteca `APScheduler` para agendar o envio dos emails a cada duas semanas.
+
+## Funcionalidades
+
+- Envia emails automaticamente a cada duas semanas.
+- Pode ser configurado para enviar para múltiplos destinatários.
+- Permite personalizar o conteúdo e o assunto do email.
+
+## Pré-requisitos
+
+- Python 3 instalado no ambiente.
+- Conta de email válida para envio dos emails.
+- Permissões de acesso à conta de email para envio.
+
+
+
