@@ -29,3 +29,17 @@ Execute o script `enviar_email.py` no seu terminal:
 
 ```bash
 python enviar_email.py
+
+
+O e-mail será enviado para o destinatário especificado.
+
+## Nota
+Para contas do Gmail, é necessário permitir o acesso a aplicativos menos seguros ou gerar uma senha específica de aplicativo. Siga as instruções do Google para fazer isso.
+
+## Contribuição
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request com melhorias.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.
+
+Este README.md fornece instruções sobre como usar o script, configuração necessária e notas importantes. Certifique-se de incluir um arquivo LICENSE no seu repositório se desejar atribuir uma licença específica ao seu código.
